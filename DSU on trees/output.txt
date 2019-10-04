@@ -1,0 +1,9 @@
+the number of primes under 100000000: 5761455
+the number of primes under 100000000 and at form 4k + 1: 2880504
+the number of primes under 100000000 and at form 4k + 3: 2880950
+we find that the number of primes of form 4k + 1 plus the primes of form 4k + 3 nearly equal to the total number of prims under n
+x is : 5 in the linear cong.  56 x cong. to 1 mod 93 
+x is : 52 in the CRT  
+x cong. 1 mod 3
+x cong. 2 mod 5
+x cong. 3 mod 7

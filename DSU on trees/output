@@ -1,0 +1,8 @@
+Enter m :
+m = 10
+
+the PPT with m = 10 and n = 1 is (99, 20, 101)
+the PPT with m = 10 and n = 3 is (91, 60, 109)
+the gcd of 10 and 5 is 5 so there is no PPT with m = 10 and n = 5
+the PPT with m = 10 and n = 7 is (51, 140, 149)
+the PPT with m = 10 and n = 9 is (19, 180, 181)
